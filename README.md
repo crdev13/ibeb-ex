@@ -1,6 +1,11 @@
-# TypeScript Next.js example
+# Bethlehem Star Baptist Church 
 
 This is a really simple project that shows the usage of Next.js with TypeScript.
+
+## How to run the project
+1. Clone the repository
+2. Install dependencies - execute `npm install`
+3. Run -  execute `npm run dev` 
 
 ## Preview
 
